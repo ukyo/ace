@@ -389,8 +389,7 @@ bindDropdown("split", function(value) {
 
 
 bindCheckbox("elastic_tabstops", function(checked) {
-    if (checked === true)
-        new ElasticTabstopsLite(env.editor);
+    env.editor.setOption("useElasticTabstops", checked);
 });
 
 bindCheckbox("highlight_token", function(checked) {
