@@ -1,15 +1,15 @@
 .ace-tomorrow .ace_gutter {
-  background: #f6f6f6;
+  background: #f8f8f8;
   color: #4D4D4C
 }
 
 .ace-tomorrow .ace_print-margin {
   width: 1px;
-  background: #f6f6f6
+  background: #f8f8f8
 }
 
 .ace-tomorrow {
-  background-color: #FFFFFF;
+  background-color: #f8f8f8;
   color: #4D4D4C
 }
 
@@ -41,7 +41,7 @@
 }
 
 .ace-tomorrow .ace_marker-layer .ace_active-line {
-  background: #EFEFEF
+  background: #f8f8f8
 }
 
 .ace-tomorrow .ace_gutter-active-line {
